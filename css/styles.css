@@ -1,0 +1,25 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-size: 40px;
+
+}
+
+h2 {
+  color: red;
+  font-family: fantasy;
+  text-align: left;
+}
+
+p  {
+  color: blue;
+  text-align: left;
+  font-family: monospace;
+
+
+}
+ul {
+  color: orange;
+  font-style: oblique;
+
+}
